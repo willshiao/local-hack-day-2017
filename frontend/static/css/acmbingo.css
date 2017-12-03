@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900');
+html,body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background-color: #50514f;
+  color: white;
+  font-family: Roboto;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
